@@ -27,7 +27,8 @@ while(playGame == "true")
 
     if(answerOne == false)
     {
-        Console.WriteLine("Thats not a number. >:[ ");
+        Console.WriteLine("Thats not a number. Game over! >:[ ");
+        break;
     }else{
 
 
@@ -38,7 +39,8 @@ while(playGame == "true")
 
     if(answerTwo == false)
     {
-        Console.WriteLine("That is not a number. >:[ ");
+        Console.WriteLine("That is not a number. Game over! >:[ ");
+        break;
     }else{
 
     num1 = Convert.ToInt32(numOne);
