@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\bin\Debug\net6.0\GarciaEGreaterthanLessthan.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\bin\Debug\net6.0\GarciaEGreaterthanLessthan.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\bin\Debug\net6.0\GarciaEGreaterthanLessthan.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\bin\Debug\net6.0\GarciaEGreaterthanLessthan.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\bin\Debug\net6.0\GarciaEGreaterthanLessthan.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\refint\GarciaEGreaterthanLessthan.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\GarciaEGreaterthanLessthan.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaEGreaterthanLessthan\obj\Debug\net6.0\ref\GarciaEGreaterthanLessthan.dll
