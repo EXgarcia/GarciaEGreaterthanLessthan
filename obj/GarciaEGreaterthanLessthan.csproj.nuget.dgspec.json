@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEGreaterthanLessthan\\GarciaEGreaterthanLessthan.csproj": {}
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/GarciaEGreaterthanLessthan/GarciaEGreaterthanLessthan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEGreaterthanLessthan\\GarciaEGreaterthanLessthan.csproj": {
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/GarciaEGreaterthanLessthan/GarciaEGreaterthanLessthan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEGreaterthanLessthan\\GarciaEGreaterthanLessthan.csproj",
+        "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/GitRepository/GarciaEGreaterthanLessthan/GarciaEGreaterthanLessthan.csproj",
         "projectName": "GarciaEGreaterthanLessthan",
-        "projectPath": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEGreaterthanLessthan\\GarciaEGreaterthanLessthan.csproj",
-        "packagesPath": "C:\\Users\\extur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaEGreaterthanLessthan\\obj\\",
+        "projectPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/GarciaEGreaterthanLessthan/GarciaEGreaterthanLessthan.csproj",
+        "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
+        "outputPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/GarciaEGreaterthanLessthan/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\extur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
